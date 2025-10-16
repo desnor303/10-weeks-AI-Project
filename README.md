@@ -8,7 +8,7 @@ After 10 weeks, you will be ready to apply for roles such as:
 -   **Prompt Engineer / LLM Integrator**
 -   **Python Automation Freelancer**
 
-This plan balances your FPT Greenwich university schedule while giving you 10–12 focused learning hours per week.
+This plan balances my university schedule while giving you 10–12 focused learning hours per week.
 
 ---
 
