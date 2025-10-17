@@ -1,0 +1,9 @@
+text_1 = "text in python is called string"
+print(text_1)
+text_2 = "You can use single quotes ' ' or double quotes \" \" to define a string."
+print(text_2)
+text_3 = "You can use double quotes " " inside single quotes ' ' without escaping them by using backslash /."
+print(text_3)
+
+# One of syntax rules of python is you must write text in quotes.
+# If you forget to use quotes, python will give you an error.
